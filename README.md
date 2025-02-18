@@ -1,6 +1,6 @@
 - 👋 Hello my name is Mihlali Nonyukela
 - 👀 I’m passionate about all things Coding 
-- 🌱 I’m currently learning java 
+ 
 - 📫 How to reach me by emailing me on mihlalinonyukela70@gmail.com
 
 <!---
