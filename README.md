@@ -13,11 +13,7 @@ I am a **Junior Data Scientist** & **Software Developer** passionate about lever
 
 ### 📌 Featured Projects
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ### 🔗 Connect with Me
 
