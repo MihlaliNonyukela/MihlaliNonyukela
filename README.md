@@ -1,6 +1,5 @@
 ### Hi there, I'm **Mihlali**! 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
 I am a **Junior Data Scientist** & **Software Developer** passionate about leveraging **Python, SQL, TensorFlow, Java, and Scikit-Learn** to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
 
@@ -13,15 +12,6 @@ I am a **Junior Data Scientist** & **Software Developer** passionate about lever
 - **Other:** API Development, Data Visualization, Cloud Platforms (AWS/GCP)
 
 ### 📌 Featured Projects
-
-🔹 **[Project Name 1](https://github.com/yourusername/project1)**  
-_A brief description of your project. What problem does it solve?_
-
-🔹 **[Project Name 2](https://github.com/yourusername/project2)**  
-_Another project description. Mention tools, technologies used._
-
-🔹 **[Project Name 3](https://github.com/yourusername/project3)**  
-_Short summary of the project._
 
 ### 📊 GitHub Stats
 
