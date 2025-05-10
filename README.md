@@ -1,7 +1,7 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a **Junior Data Scientist** & **Software Developer** passionate about leveraging **Python, SQL, TensorFlow, Java, and Scikit-Learn** to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
+I am a **Data Scientist** & **Software Developer** passionate about leveraging  to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
 
 ### 🛠️ Tech Stack & Skills
 
@@ -9,9 +9,7 @@ I am a **Junior Data Scientist** & **Software Developer** passionate about lever
 - **Machine Learning:** TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Development Tools:** Git, Docker, Jupyter Notebook, VS Code
-- **Other:** API Development, Data Visualization, Cloud Platforms (AWS/GCP)
 
-### 📌 Featured Projects
 
 
 
