@@ -1,14 +1,13 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a **Software Developer** passionate about leveraging  to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
+I am a **Junior Software Developer** passionate about leveraging  to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
 
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** Python, Java, SQL
-- **Machine Learning:** TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Development Tools:** Git, Docker, Jupyter Notebook, VS Code
+- **Development Tools:** Jupyter Notebook, VS Code
 
 
 
