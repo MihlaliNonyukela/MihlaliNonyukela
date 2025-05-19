@@ -1,7 +1,7 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a **Junior Software Developer** passionate about leveraging  to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
+I am a **Junior Software Developer & Data Scientist** passionate about leveraging  to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
 
 ### 🛠️ Tech Stack & Skills
 
