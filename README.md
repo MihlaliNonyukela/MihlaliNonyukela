@@ -1,14 +1,15 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a **Junior Software Developer & Data Scientist** passionate about leveraging  to build efficient and scalable solutions. I love working with data, machine learning, and backend development. 🚀
+I am a honours certified computer scientist passionate about Python & Data Sceience to build efficient and scalable solutions. . 🚀
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, Java, SQL
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Development Tools:** Jupyter Notebook, VS Code
-
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https:/img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- 
+  
 
 
 
