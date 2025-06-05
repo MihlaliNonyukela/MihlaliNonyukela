@@ -1,7 +1,7 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a honours certified computer scientist passionate about Python & Data Sceience to build efficient and scalable solutions. . 🚀
+I am a  Computer scientist passionate about Python & Data Sceience to build efficient and scalable solutions. . 🚀
 
 ### 🛠️ Tech Stack & Skills
 
