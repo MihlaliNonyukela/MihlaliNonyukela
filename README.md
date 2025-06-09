@@ -1,7 +1,7 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a  Computer scientist passionate about Python & CyberSecurity, building efficient and scalable solutions. . 🚀
+I am a Computer scientist passionate about CyberSecurity, Python & Cloud building efficient and scalable solutions. . 🚀
 
 ### 🛠️ Tech Stack & Skills
 
