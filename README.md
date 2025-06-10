@@ -1,7 +1,7 @@
 ### Hi there, I'm **Mihlali**! 👋
 
 
-I am a Computer scientist passionate about CyberSecurity, Python & Cloud Solutions building efficient and scalable . . 🚀
+I am a Computer scientist passionate about Python ,Cloud and CyberSecurity building efficient and scalable Solutions . . 🚀
 
 ### 🛠️ Tech Stack & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
