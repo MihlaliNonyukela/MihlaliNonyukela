@@ -13,10 +13,7 @@ Junior Full Stack Developer building with **C#/.NET**, **React**, and **Azure**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Featured Project
 
-**[project-name]** — one-line description of what it does and why it's interesting
-`React` `.NET` `SQL Server` `Anthropic API` · [Live demo](#) · [Source](#)
 
 ### 🔗 Connect
 
