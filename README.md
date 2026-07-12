@@ -1,7 +1,6 @@
 ### Hi there, I'm **Mihlali**! 👋
 
-Junior Full Stack Developer building with **C#/.NET**, **React**, and **Azure**. Interested in applying LLM APIs (Anthropic, OpenAI) inside production applications.
-
+Junior Full Stack Developer building with **C#/.NET**, **React**, and **Azure**. 
 ### 🛠️ Core Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
